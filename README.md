@@ -2,5 +2,5 @@
 Execute this command in your terminal:
 
 ```
-https://raw.githubusercontent.com/ggg3ya/layeredge/refs/heads/main/layeredge.sh)
+curl -sL https://raw.githubusercontent.com/ggg3ya/layeredge/refs/heads/main/layeredge.sh | bash
 ```
